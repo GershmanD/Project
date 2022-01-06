@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
      private String birthday;
      DatePickerDialog.OnDateSetListener setListener;
     SharedPreferences sp;       //file
-    SharedPreferences.Editor editor;     //sharedpreference editor tool
+    SharedPreferences.Editor editor;     //sharedpreference editortool
     final String KEY_NAME = "key_name";
     final String KEY_FAMILYNAME = "key_familyname";
     final String KEY_CITY = "key_city";
