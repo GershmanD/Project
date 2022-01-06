@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     final String KEY_BIRTHDAY = "key_birthday";
     final String KEY_MALE = "key_male";
     final String KEY_FEMALE = "key_female";
-    //int sex;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
